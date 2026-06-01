@@ -1,6 +1,8 @@
 # Midnight City Ghostty
 The Midnight City color scheme for Ghostty.
 
+<img width="160" height="112" alt="City" src="https://github.com/user-attachments/assets/2b729c54-fb2a-429c-9277-751195461297" /><br/>
+
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)
