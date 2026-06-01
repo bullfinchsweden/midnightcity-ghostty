@@ -3,9 +3,9 @@ The Midnight City color scheme for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Chocolate color scheme](https://gitlab.com/snakedye/chocolate)
+* [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)
 
-* [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)<br/>
+* [Midnight City theme for Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/)<br/>
 
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
