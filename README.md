@@ -1,7 +1,7 @@
 # Midnight City Ghostty
 The Midnight City color scheme for Ghostty.
 
-<img src="Images/City.png"><br/>
+<img src="Images/City.jpg"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
