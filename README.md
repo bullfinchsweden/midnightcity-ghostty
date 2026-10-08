@@ -7,6 +7,8 @@ The Midnight City color scheme for Ghostty.
 
 * [Midnight City for VS Code](https://github.com/dillonchanis/theme-midnight-city/tree/master)<br/>
 
+<img src="Images/MidnightCity.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Midnight City*
