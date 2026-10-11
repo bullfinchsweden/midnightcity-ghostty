@@ -1,4 +1,4 @@
-# Midnight City Ghostty
+# Midnight City | Ghostty
 The Midnight City color scheme for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
