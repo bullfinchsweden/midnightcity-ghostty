@@ -13,6 +13,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Midnight City*
 
-<img src="Images/MidnightCityColors1.png" width="260" height="82" /><br/>
-
-<img src="Images/MidnightCityColors2.png" width="785" height="398" />
+<img src="Images/MidnightCityGhostty.png" width="764.5" height="376.5" />
